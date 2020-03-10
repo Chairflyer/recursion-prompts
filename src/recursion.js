@@ -16,6 +16,7 @@ var factorial = function(n) {
     }
     
     return n * factorial(n-1);
+    //test
 };
 
 // 2. Compute the sum of an array of integers.
